@@ -1,0 +1,14 @@
+/* Eric Marsh
+   CS270
+   HW5
+   4/20/2015
+*/
+
+To make graphics library:
+   make ASCIILibrary.a
+
+To make executable file of library including main:
+   make exe
+
+To clean up all object files, the library, and the executable
+   make clean
